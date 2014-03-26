@@ -1,5 +1,7 @@
 PROGRAM := max
 
+# ok düzelttim
+
 $(PROGRAM).o: $(PROGRAM).c
 	cc -c $<
 
